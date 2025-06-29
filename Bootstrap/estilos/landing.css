@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(135deg, #000000, #e0e7ff);
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+h1 {
+  font-weight: 700;
+  color: #222222;
+}
+
+.btn-primary {
+  background-color: #6a00ff;
+  border: none;
+}
+
+.card:hover {
+  transform: scale(1.02);
+  transition: transform 0.3s ease;
+}
+
+.display-3fw-bold {
+  font-size: 4rem;
+  font-weight: 700;
+  color: #de14d0;
+  text-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+  text-align: center;
+}
